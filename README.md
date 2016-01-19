@@ -41,11 +41,10 @@ getAddedValue(1,2); // 6
 #Example 4
 
 ```
-function getAddedValue(firstArgument=secondArgument,secondArgument) {
-     console.log(firstArgument+secondArgument);
+if (condition) {
+    console.log(typeof count);  // ReferenceError!
+    let count = 10;
 }
-
-getAddedValue(1); //reference error
 ```
 
 #Example 5

@@ -1,5 +1,4 @@
-function getAddedValue(firstArgument=secondArgument,secondArgument) {
-     console.log(firstArgument+secondArgument);
+if (condition) {
+    console.log(typeof count);  // ReferenceError!
+    let count = 10;
 }
-
-getAddedValue(1); //reference error
