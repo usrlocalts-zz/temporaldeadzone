@@ -1,6 +1,8 @@
 # Temporal Dead Zone Examples
 Repository containing examples of Temporal Dead Zone 
 
+The blog article can be found at <a href=http://tsshriram.com/2016/01/19/the-mysterious-temporal-dead-zone/>The Mysterious Temporal Dead Zone</a>
+
 #Example 1
 
 ```
