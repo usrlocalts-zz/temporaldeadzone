@@ -1,4 +1,4 @@
-var countMethod(){
+function countMethod(){
 console.log(count); //reference error
 };
 
