@@ -6,7 +6,7 @@ The blog article can be found at <a href=http://tsshriram.com/2016/01/19/the-mys
 #Example 1
 
 ```
-var countMethod(){
+function countMethod(){
 console.log(count); //reference error
 };
 
